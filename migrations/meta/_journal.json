@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712052864837,
+      "tag": "0000_damp_william_stryker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712083562156,
+      "tag": "0001_tearful_hawkeye",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712085904230,
+      "tag": "0002_ancient_luke_cage",
+      "breakpoints": true
+    }
+  ]
+}
